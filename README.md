@@ -1,4 +1,4 @@
-# OCT-Dataset
+# Histopathology Dataset
 
 
 | Dataset                                             | Size                                                         | Task         | Label Type                                                   | 下载                                                         | 其他                                                         | 是否可用 |
